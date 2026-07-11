@@ -42,6 +42,7 @@
 
 A few of the automation projects I'm actively tinkering with:
 
+- **CS2 Premier Stats OBS Widget** — A widget to show you to your viewers your Premier basic stats and rank.
 - **Forza Horizon 6 Skill Point Farmer** — Python bot that automates skill point farming, compiled into a standalone `.exe` with PyInstaller.
 - **Forza Horizon 6 Photo Bot** — navigates the in-game car collection and automates the photo mode workflow, tracking progress via JSON.
 - **VRAM Cleaner** — a small CLI tool that clears shader caches and resets the GPU context between gaming sessions to fix post-game freezing.
